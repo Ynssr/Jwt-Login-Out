@@ -366,5 +366,5 @@ FodyWeavers.xsd
 appsettings.json
 appsettings.Development.json
 
-# User Secrets (gizli bilgiler için)
+# User Secrets
 secrets.json
