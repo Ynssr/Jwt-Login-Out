@@ -369,3 +369,4 @@ appsettings.Development.json
 # User Secrets
 secrets.json
 /Jwt_LogIn_Out/appsettings.json
+/Jwt_LogIn_Out/appsettings.Development.json
