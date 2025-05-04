@@ -361,3 +361,10 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# appsettings dosyasını git'e dahil etme
+appsettings.json
+appsettings.Development.json
+
+# User Secrets (gizli bilgiler için)
+secrets.json
